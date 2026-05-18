@@ -1,1 +1,22 @@
-[]
+[
+  "https://whatsapp.com/channel/0029Vb7iIUO5kg74rN5izT2L",
+  "https://whatsapp.com/channel/0029Vb8C5uU0Vyc9bjyOC204",
+  "https://whatsapp.com/channel/0029VbCDZu57DAX4uJ01SP3n",
+  "https://whatsapp.com/channel/0029Vb7RxbbLdQei8WzQIW0w",
+  "https://whatsapp.com/channel/0029VbCmSn16BIEdEkRWAG2e",
+  "https://whatsapp.com/channel/0029VbD2N5sBA1ezkTCpPW1A",
+  "https://whatsapp.com/channel/0029Vb8fjUPAjPXRDJxHeA2s",
+  "https://whatsapp.com/channel/0029VbCuGE87oQhiucYibZ2W",
+  "https://whatsapp.com/channel/0029Vb7fDuZAjPXKhPcVvQ2S",
+  "https://whatsapp.com/channel/0029Vb7tIJf6xCSMiOlpdd1z",
+  "https://whatsapp.com/channel/0029Vb7tkRZLikg2joBssU3U",
+  "https://whatsapp.com/channel/0029Vb7ssgi7YSczI8BPH00O",
+  "https://whatsapp.com/channel/0029Vb7bO6FHbFV73n20Di2g",
+  "https://whatsapp.com/channel/0029VbCWejSIyPtMMEXjSH3f",
+  "https://whatsapp.com/channel/0029Vb83Ody4SpkM2JKn7A03",
+  "https://whatsapp.com/channel/0029Vb8fIbnFSAt29RMwfr0E",
+  "https://whatsapp.com/channel/0029Vb81qs2GZNCjFKNbYs3r",
+  "https://whatsapp.com/channel/0029Vb7TLUSBvvseks63s10d",
+  "https://whatsapp.com/channel/0029Vb7vF6C89indohy0hb3C",
+  "https://whatsapp.com/channel/0029Vb7vgn7It5rvsF9R6h32"
+]
