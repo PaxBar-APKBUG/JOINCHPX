@@ -87,5 +87,15 @@
   "https://whatsapp.com/channel/0029Vb7pZXH4SpkFxg1zJO3I",
   "https://whatsapp.com/channel/0029Vb7rQor8vd1W9p6AFH1N",
   "https://whatsapp.com/channel/0029VbCnh9j1HsprGcMdcU46",
-  "https://whatsapp.com/channel/0029VbCbcI6CXC3HmKeZI82y"
+  "https://whatsapp.com/channel/0029VbCbcI6CXC3HmKeZI82y",
+  "https://whatsapp.com/channel/0029VbDHjyY4SpkFcZ6Xo40H",
+  "https://whatsapp.com/channel/0029VbCrn5hBFLgTpxNW3k0X",
+  "https://whatsapp.com/channel/0029VbC0q9EG8l5E0xKflP3m",
+  "https://whatsapp.com/channel/0029Vb8ane3AYlUSwZ9J2D0a",
+  "https://whatsapp.com/channel/0029VbCdliI9Gv7b9quJPT0o",
+  "https://whatsapp.com/channel/0029VbClpT3InlqRwjYSpP0z",
+  "https://whatsapp.com/channel/0029VbCwXW2Lo4haumQFB52s",
+  "https://whatsapp.com/channel/0029Vb7pmsm7Noa3U6nNlJ3U",
+  "https://whatsapp.com/channel/0029Vb7e54A6hENxOyVWQq2Q",
+  "https://whatsapp.com/channel/0029Vb7Kv2E23n3gOdNVcv2R"
 ]
