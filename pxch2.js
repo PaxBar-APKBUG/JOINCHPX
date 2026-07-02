@@ -197,6 +197,5 @@
 "https://whatsapp.com/channel/0029VbCYjmAHVvTRpwb6k820",
 "https://whatsapp.com/channel/0029Vb8N7bU9cDDYTZMZNx1c",
 "https://whatsapp.com/channel/0029Vb8LkEq17En12rVGlw1i",
-"https://whatsapp.com/channel/0029VbDFVQu7IUYarF7onp16",
-"https://whatsapp.com/channel/0029VbD2yOMDZ4LbxSqydp47"
+"https://whatsapp.com/channel/0029VbDFVQu7IUYarF7onp16"
 ]
